@@ -1,0 +1,12 @@
+testing specs for recipes:
+name: string
+summary: text
+description: text
+
+_ name must be present
+_ name must be between 5 characters and less than 100 characters
+_ summary must be present
+_ summary must be between 10 characters and less than  150 characters
+_ description must be present
+_ description must be between 20 and 500 characters
+_ chef_id must be present
